@@ -1,0 +1,17 @@
+# ビルド
+target/
+build/
+
+# 一時ファイル
+*.tmp
+*.log
+
+# 機密情報
+.env
+
+# 依存関係
+node_modules/
+.mvn/
+
+# 環境設定ファイル
+.vscode/
